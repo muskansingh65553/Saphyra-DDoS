@@ -14,7 +14,7 @@ A complex python code to DDoS any website with a very easy usage.
 
     $ sudo su
 
-    $ git clone https://github.com/anonymous24x7/Saphyra-DDoS.git
+    $ git clone https://github.com/muskansingh65553/Saphyra-DDoS.git
 
     $ cd Saphyra-DDoS
 
